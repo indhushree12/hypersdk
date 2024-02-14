@@ -13,11 +13,11 @@ import (
 
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = ""
+	HRP = "Metacrafters"
 	// TODO: choose a name for your hyperchain
-	Name = ""
+	Name = "Hyperchain"
 	// TODO: choose a token symbol
-	Symbol = ""
+	Symbol = "META"
 )
 
 var ID ids.ID
